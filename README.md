@@ -14,7 +14,7 @@ Prepare the lists from each rank of matrix and assign in np.array()
 ### Step 4: 
 End the program
 ## Program:
-#Program to find the rank of a matrix.
+```#Program to find the rank of a matrix.
 #Developed by:R.Subhashri 
 #RegisterNumber:23012776
 import numpy as np
@@ -22,6 +22,7 @@ A=[[1,2,3],[3,6,9]]
 sol=np.linalg.matrix_rank(A)
 
 print(sol)
+```
 ## Output:
 ![Alt text](<Screenshot 2023-12-15 103320.png>)
 ## Result:
